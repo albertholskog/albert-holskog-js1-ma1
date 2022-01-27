@@ -55,6 +55,7 @@ function list() {
 }
 list();
 
+// Question 8
 function createCats(cats) {
   let html = "";
   for (let i = 0; i < cats.length; i++) {
